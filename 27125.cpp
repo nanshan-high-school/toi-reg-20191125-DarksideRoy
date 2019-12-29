@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// 27125 655249
+// 27125 655249 第二題
 
 int compare(int b[], int length);
 
